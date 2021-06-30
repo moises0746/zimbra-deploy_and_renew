@@ -10,4 +10,4 @@ Grant execute permission:
 chmod +x zimbra-ssl-install-and-renew.sh
 
 Run the script:
-./zimbra-ssl-install.sh
+./zimbra_ssl_certificate.sh
